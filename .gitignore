@@ -30,6 +30,7 @@ moc_*.cpp
 ui_*.h
 qrc_*.cpp
 Thumbs.db
+dailycodingproblem100.pro
 *.res
 *.rc
 /.qmake.cache
